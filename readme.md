@@ -17,6 +17,12 @@ See: https://git-scm.com/book/en/v2/Git-Tools-Submodules
 ## See status
 git status
 
+## Configure Username 
+git config --global user.name "<Your-Full-Name>"
+
+## Configure Email
+git config --global user.email "<your-email-address>"
+
 ## commit 
 git commit -m "Commit message"
 
