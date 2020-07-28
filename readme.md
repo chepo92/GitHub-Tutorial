@@ -1,5 +1,8 @@
 # Git essential commands 
 
+## Start version tracking
+git init
+
 ## Clone a repo
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
@@ -22,3 +25,6 @@ git push
 
 ## Pull 
 git pull
+
+## Remove version tracking
+rm -rf .git
